@@ -5,7 +5,7 @@
 <head>
 <title>Online Stopwatch allinworld99.blogspot.com</title>
 <script type="text/javascript">
-
+//varalakshmi
 var t=[0, 0, 0, 0, 0, 0, 0, 1];
 
 function ss() {
